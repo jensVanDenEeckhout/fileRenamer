@@ -1,0 +1,9 @@
+C:\Users\Jens\source\repos\songRenamer\bin\Debug\songRenamer.exe.config
+C:\Users\Jens\source\repos\songRenamer\bin\Debug\songRenamer.exe
+C:\Users\Jens\source\repos\songRenamer\bin\Debug\songRenamer.pdb
+C:\Users\Jens\source\repos\songRenamer\obj\Debug\songRenamer.csprojAssemblyReference.cache
+C:\Users\Jens\source\repos\songRenamer\obj\Debug\songRenamer.Form1.resources
+C:\Users\Jens\source\repos\songRenamer\obj\Debug\songRenamer.Properties.Resources.resources
+C:\Users\Jens\source\repos\songRenamer\obj\Debug\songRenamer.csproj.GenerateResource.cache
+C:\Users\Jens\source\repos\songRenamer\obj\Debug\songRenamer.exe
+C:\Users\Jens\source\repos\songRenamer\obj\Debug\songRenamer.pdb
